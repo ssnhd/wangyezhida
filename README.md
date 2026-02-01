@@ -1,15 +1,4 @@
-# Alfred 常见快捷搜索链接
-
-
-## 使用方法
-
-1. 打开 Alfred 偏好设置 - Features - Web Search
-2. 点击右下角**添加自定义搜索**
-3. 输入以下链接、标题、Keyword 等，点击保存
-4. 点击 Default Results - 设置智能推荐
-5. 将已添加的搜索加入保存
-
-## 搜索链接
+# 网页直达
 
 - 抖音：<https://www.douyin.com/search/{query}>
 - TikTok：https://www.tiktok.com/search?q={query}
